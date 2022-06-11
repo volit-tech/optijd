@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "optijd_server",
+    "optijd_web",
+    "optijd_core",
+]
